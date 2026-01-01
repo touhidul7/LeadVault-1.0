@@ -1,0 +1,11 @@
+First Name,Last Name,Email,Phone,LinkedIn,Company,Title,Website,Location,Notes
+John,Doe,john.doe@acmecorp.com,5551234567,https://linkedin.com/in/johndoe,Acme Corporation,Chief Technology Officer,https://acmecorp.com,San Francisco CA,Key decision maker for tech purchases
+Jane,Smith,jane.smith@techventures.com,5559876543,https://linkedin.com/in/janesmith,Tech Ventures,VP of Engineering,https://techventures.com,New York NY,Previously worked at major tech companies
+Michael,Johnson,mjohnson@innovatelab.io,5551112222,https://linkedin.com/in/michaeljohnson,Innovate Lab,Product Manager,https://innovatelab.io,Austin TX,Interested in SaaS solutions
+Sarah,Williams,sarah.w@digitalflow.com,5553334444,https://linkedin.com/in/sarahwilliams,Digital Flow,Marketing Director,https://digitalflow.com,Los Angeles CA,Looking for marketing automation tools
+David,Brown,david.brown@cloudsys.com,5555556666,https://linkedin.com/in/davidbrown,CloudSys,Senior Developer,https://cloudsys.com,Seattle WA,Technical lead for cloud infrastructure
+Emily,Davis,emily.davis@datainsights.com,5557778888,https://linkedin.com/in/emilydavis,Data Insights,Chief Data Officer,https://datainsights.com,Boston MA,Focus on analytics and BI tools
+Robert,Miller,rmiller@nextstep.io,5559990000,https://linkedin.com/in/robertmiller,NextStep,CEO,https://nextstep.io,Chicago IL,Startup founder looking for B2B solutions
+Lisa,Wilson,lisa.wilson@globaltech.com,5552223333,https://linkedin.com/in/lisawilson,Global Tech,Operations Manager,https://globaltech.com,Miami FL,Manages vendor relationships
+James,Moore,james.m@futuresoft.com,5554445555,https://linkedin.com/in/jamesmoore,FutureSoft,Sales Director,https://futuresoft.com,Denver CO,Handles enterprise sales
+Jennifer,Taylor,jtaylor@smartsolutions.com,5556667777,https://linkedin.com/in/jennifertaylor,Smart Solutions,HR Director,https://smartsolutions.com,Portland OR,Looking for HR tech solutions
