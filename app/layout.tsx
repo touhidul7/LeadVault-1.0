@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     shortcut: '/logo.png',
   },
 };
-
+/* Root layout component */
 export default function RootLayout({
   children,
 }: {
